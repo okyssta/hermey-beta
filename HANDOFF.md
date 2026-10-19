@@ -5,7 +5,7 @@ Native Android client for Hermes Agent — exact mobile port of the desktop app.
 Kotlin + Jetpack Compose + Material 3. Thin gateway client: nothing runs on the phone.
 
 ## Repo
-- `https://github.com/kyssta-exe/hermey-beta.git` (origin, push+fetch)
+- `https://github.com/okyssta/hermey-beta.git` (origin, push+fetch)
 - Working dir: `/root/hermey-beta`
 
 ## Connection modes

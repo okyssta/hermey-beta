@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit
 data class AppRelease(val tag: String, val apkUrl: String, val apkSize: Long)
 
 object AppUpdates {
-    const val REPO = "kyssta-exe/hermey-beta"
+    const val REPO = "okyssta/hermey-beta"
 
     private val client: OkHttpClient = OkHttpClient.Builder()
         .connectTimeout(15, TimeUnit.SECONDS)
